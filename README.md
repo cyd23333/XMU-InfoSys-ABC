@@ -39,5 +39,6 @@
 + 学生处 https://xsc.xmu.edu.cn/
 + 国际合作交流处 http://ice.xmu.edu.cn/
 + 信息与网络中心 https://net.xmu.edu.cn/
++ 信息与网络中心（另一个网址）https://inc.xmu.edu.cn/
 ### 学院
 + 电子科学与技术学院 https://ese.xmu.edu.cn/
